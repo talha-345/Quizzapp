@@ -1,0 +1,39 @@
+[
+    {
+        "question": "What is the capital of France?",
+        "options": ["Madrid", "Berlin", "Paris", "Rome"],
+        "correctAnswer": "Paris"
+    },
+
+    {
+        "question": "Which planet is known as the Red Planet?",
+        "options": ["Mars", "Earth", "Venus", "Jupiter"],
+        "correctAnswer": "Mars"
+    },
+
+    {
+        "question":"What is the largest mammal in the world?",
+        "options": ["Elephant", "Giraffe", "Blue Whale", "Hippopotamus"],
+        "correctAnswer": "Blue Whale"
+    },
+
+    {
+        "question": "Which gas do plants absorb from the atmosphere during photosynthesis?",
+        "options": ["Carbon dioxide (CO2)", "Oxygen (O2)", "Nitrogen (N2)", "Hydrogen (H2)"],
+        "correctAnswer": "Carbon dioxide (CO2)"
+    },
+
+    {
+        "question": "Which is the largest country in the world?",
+        "options": ["America", "China", "Russia", "India"],
+        "correctAnswer": "Russia"
+    },
+
+    {
+        "question": "Who is the thief of the world?",
+        "options": ["Jesse James", "Nawaz Shareef", "Bertie Smalls", "Carl Gugasion"],
+        "correctAnswer": "Bertie Smalls"
+    }
+]
+  
+  
