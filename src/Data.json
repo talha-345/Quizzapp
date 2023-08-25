@@ -30,9 +30,9 @@
     },
 
     {
-        "question": "Who is the thief of the world?",
-        "options": ["Jesse James", "Nawaz Shareef", "Bertie Smalls", "Carl Gugasion"],
-        "correctAnswer": "Bertie Smalls"
+        "question": "Who is CEO of Facebook?",
+        "options": ["Steve Jobs", "Marck Zackburg", "Nawaz Shareef", "Elon Musk"],
+        "correctAnswer": "Marck Zackburg"
     }
 ]
   
